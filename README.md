@@ -41,7 +41,7 @@
 
 - [TIL 저장소](https://github.com/KimBaBoo/TIL)
   
-## 📚 최근 프로젝트
+## 📂 프로젝트
 [학원 팀 프로젝트](https://github.com/KimBaBoo/JiHwanProject/tree/main/jihwanProjectUpload-develop) 
 
 ### 우아한 테크코스 프리코스  
