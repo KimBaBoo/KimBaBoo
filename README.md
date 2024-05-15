@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-# 안녕하세요! 저는 김지환입니다. 🚀
+# 안녕하세요! 저는 김지환입니다.
 ## 📜 소개
 안녕하세요! 저는 열정적으로 새로운 기술을 배우고 적용하는 것을 좋아하는 백엔드 개발자, 김지환입니다.   
 언제나 밝은 성격으로 팀원과 협업을 중요시 생각하고 있습니다!  
@@ -34,10 +34,16 @@
 - [정보처리기사 실기]
 - [Spring Boot]
 - [SQLD]
+
+## 📚 TIL (Today I Learned)
+
+매일 배운 내용을 기록하는 TIL 저장소입니다. 저의 학습 과정을 확인해 보세요!
+
+- [TIL 저장소](https://github.com/KimBaBoo/TIL)
   
 ## 📚 최근 프로젝트
 [학원 팀 프로젝트](https://github.com/KimBaBoo/JiHwanProject/tree/main/jihwanProjectUpload-develop) 
-  
+
 ### 우아한 테크코스 프리코스  
 [자바 야구 게임 프리코스](https://github.com/KimBaBoo/java-baseball-6)  
 [자바 로또 게임 프리코스](https://github.com/KimBaBoo/java-lotto-6)  
