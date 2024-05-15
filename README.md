@@ -32,6 +32,8 @@
 - [AWS]
 - [Docker]
 - [정보처리기사 실기]
+- [Spring Boot]
+- [SQLD]
   
 ## 📚 최근 프로젝트
 [학원 팀 프로젝트](https://github.com/KimBaBoo/JiHwanProject/tree/main/jihwanProjectUpload-develop) 
