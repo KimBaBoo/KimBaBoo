@@ -6,7 +6,12 @@
 언제나 밝은 성격으로 팀원과 협업을 중요시 생각하고 있습니다!  
 항상 발전하기 위하여 노력하는 개발자가 되겠습니다!
 ## 💼 경력  
-- 넥스그리드 / 사원 / 2023-09-04 ~  
+- 넥스그리드 / 사원 / 2023-09-04 ~
+
+## 📝 자격증
+
+- [SQLD]
+- [리눅스 마스터 2급]
   
 ## 🛠 기술 스택
 <img src="https://img.shields.io/badge/Java-1270B2?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
@@ -33,7 +38,8 @@
 - [Docker]
 - [정보처리기사 실기]
 - [Spring Boot]
-- [SQLD]
+- [자료구조 알고리즘]
+- [네트워크]
 
 ## 📚 TIL (Today I Learned)
 
