@@ -43,8 +43,8 @@
 
 ## 📚 Study
 
-- [TIL 저장소](https://github.com/KimBaBoo/TIL)
-- [자료구조 알고리즘 기초](https://github.com/KimBaBoo/algo-structures-basics)
+- [TIL 저장소](https://github.com/KimBaBoo/TIL) -> [노션 저장소 이전](https://www.notion.so/11963d5657ee8096abacc51793d85cfd)
+- [코딩 테스트](https://github.com/KimBaBoo/coding-test)
   
 ## 📂 프로젝트
 [학원 팀 프로젝트](https://github.com/KimBaBoo/JiHwanProject/tree/main/jihwanProjectUpload-develop) 
